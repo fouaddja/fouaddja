@@ -1,3 +1,4 @@
+#Read
 - 👋 Hi, I’m @fouaddja
 - 👀 I’m interested in fullstack
 - 🌱 I’m currently learning front-end
